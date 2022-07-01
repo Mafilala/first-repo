@@ -1,0 +1,3 @@
+# My first repo
+This is my first repository in github,
+so don't expect much explantion here...
